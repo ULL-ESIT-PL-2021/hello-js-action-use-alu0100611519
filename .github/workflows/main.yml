@@ -1,4 +1,4 @@
-name: Using hello world action
+name: Using hello world
 on: [push]
 
 jobs:
